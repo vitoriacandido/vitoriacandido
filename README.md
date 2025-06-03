@@ -4,13 +4,12 @@
 **Vitoria**candido
 
 # Unidades curriculares
-concluídas
+### concluídas
 
 - [x] logica da programação
 - [x] FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO
 - [x] INFORMÁTICA APLICADA
 - [x] COMUNICAÇÃO E REDAÇÃO TÉCNICA
-### em processo
 - [X] interface de web
 - [X] PROJETO DE INTERFACE WEB
 - [X] PROJETO DE INOVAÇÃO: PROCESSO CRIATIVO – INDÚSTRIA 4.0, LEAN E IDEAÇÃO
