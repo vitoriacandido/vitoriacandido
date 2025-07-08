@@ -1,8 +1,10 @@
+# 🌸✨ Olá, bem-vindos!
+Que essa jornada seja cheia de descobertas, aprendizado e sucesso! Vamos juntos transformar conhecimento em conquistas. 🚀📖
+
 ## ✦✧ 𝓐𝓵𝓾𝓷𝓪 𝓭𝓸 𝓬𝓾𝓻𝓼𝓸 _**𝓢𝓔𝓝𝓐𝓘**_ ✧✦
 
 # 𝕌𝕟𝕚𝕕𝕒𝕕𝕖𝕤 𝕔𝕦𝕣𝕣𝕚𝕔𝕦𝕝𝕒𝕣𝕖𝕤  📚
-### concluídas
-
+## ✅ 𝒞𝑜𝓃𝒸𝓁𝓊𝒾́𝒹𝒶𝓈:
 - [x] logica da programação
 - [x] FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO
 - [x] INFORMÁTICA APLICADA
