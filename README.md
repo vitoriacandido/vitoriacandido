@@ -1,6 +1,6 @@
-# Aluna do curso _**SENAI**_
+## ✦✧ 𝓐𝓵𝓾𝓷𝓪 𝓭𝓸 𝓬𝓾𝓻𝓼𝓸 _**𝓢𝓔𝓝𝓐𝓘**_ ✧✦
 
-# Unidades curriculares
+# 𝕌𝕟𝕚𝕕𝕒𝕕𝕖𝕤 𝕔𝕦𝕣𝕣𝕚𝕔𝕦𝕝𝕒𝕣𝕖𝕤  📚
 ### concluídas
 
 - [x] logica da programação
