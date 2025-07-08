@@ -1,5 +1,4 @@
-### Aluna do curso _**SENAI**_
-**Vitoria**candido
+# Aluna do curso _**SENAI**_
 
 # Unidades curriculares
 ### concluídas
