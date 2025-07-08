@@ -1,5 +1,3 @@
-# Olá 👋
-## Prazer em conhecê-lo!
 ### Aluna do curso _**SENAI**_
 **Vitoria**candido
 
